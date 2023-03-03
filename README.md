@@ -1,4 +1,5 @@
 Found 13 vulnerabilities on their CTF website
+
 (SQL Injection, XSS, CryptAnalysis, Cookie Tampering, Hash Decoding, Unrestricted File upload, Directory Traversal)
 
 
