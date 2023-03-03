@@ -1,4 +1,5 @@
-Details for my CTF at SnowFROC 2023
+Found 13 vulnerabilities on their CTF website
+(SQL Injection, XSS, CryptAnalysis, Cookie Tampering, Hash Decoding, Unrestricted File upload, Directory Traversal)
 
 
 
